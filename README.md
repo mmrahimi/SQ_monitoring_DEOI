@@ -45,7 +45,7 @@ This code was tested on R version 3.5.3. Other required packages are as follows:
  
 ## Citation
 ```
-Rahimi, M.M., Naghizade, E., Stevenson M., Winter, S., Service Quality Monitoring in Confined Spaces Through Mining Twitter Data In Journal of Spatial Information Science.
+Rahimi,  M.M.,et  al.,  2020.  Service  quality  monitoring  in  confined  spaces  through  mining Twitter data. Journal of Spatial Information Science, 21.
 ```
 
 ## Author
